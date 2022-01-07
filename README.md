@@ -1,4 +1,4 @@
-# Unofficial OVMF nightly build
+# Unofficial OVMF nightly build ![build](https://img.shields.io/circleci/build/github/JakubGawron1/OVMF-nightly/master)
 
 This repository provides unofficial
 [tianocore/edk2](https://github.com/tianocore/edk2)
